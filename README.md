@@ -1,1 +1,1 @@
-# SLB-charbot
+# SLB-chatbot
